@@ -1,0 +1,2 @@
+<span><a class="btn btn-outline-primary btn-sm my-1" href="/courses/">Courses</a></span>&nbsp;&nbsp;&nbsp;
+<span><a class="btn btn-outline-primary btn-sm my-1" href="/courses/create">Create Course</a></span>&nbsp;&nbsp;&nbsp;

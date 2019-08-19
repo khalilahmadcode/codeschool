@@ -1,0 +1,2 @@
+<span><a class="btn btn-outline-primary btn-sm my-1" href="/lecturers/">Lecturers</a></span>&nbsp;&nbsp;&nbsp;
+<span><a class="btn btn-outline-primary btn-sm my-1" href="/lecturers/create">Add Lecturer</a></span>&nbsp;&nbsp;&nbsp;
